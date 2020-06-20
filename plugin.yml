@@ -1,0 +1,7 @@
+name: DreamLifeCore
+version: 1.0
+author: NewZ_AZ#7736
+main: fr.newzaz.dreamlifecore.DreamLifeMain
+commands:
+  rankgendarme:
+    aliases: rgm
